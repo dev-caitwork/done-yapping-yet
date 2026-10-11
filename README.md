@@ -1,2 +1,4 @@
-# done-yapping-yet
+# done-yapping-yet 
 claude code 답변 단순하게 하는 것
+1.핵심전략은 짧게 쓰되 중요한 것은 빠뜨리지 않는다.
+2. 상세를 숨기고, 먼저 결론을 이야기하고, 필요 시 상세를 확인한다.
